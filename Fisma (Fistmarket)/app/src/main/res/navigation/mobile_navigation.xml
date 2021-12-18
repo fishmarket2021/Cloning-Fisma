@@ -20,7 +20,7 @@
     <fragment
         android:id="@+id/navigation_keranjang"
         android:name="com.fisma.marketplacefisma.ui.keranjang.KeranjangFragment"
-        android:label="@string/title_notifications"
+        android:label="@string/title_Keranjang"
         tools:layout="@layout/fragment_keranjang" />
 
     <fragment
