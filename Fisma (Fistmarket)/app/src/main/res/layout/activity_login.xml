@@ -97,7 +97,7 @@
             style="@style/Button.OutlineBox"
             android:layout_width="match_parent"
             android:layout_height="@dimen/_45sdp"
-            android:text="masuk"
+            android:text="Akun Google"
             android:textAllCaps="false"
             android:textColor="#939393"
             app:icon="@drawable/ic_google"
