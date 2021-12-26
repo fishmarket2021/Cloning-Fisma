@@ -41,6 +41,9 @@ class HomeFragment : Fragment() {
     }
 
     fun mainButton(){
+        binding.btnTest.setOnClickListener {
+            homeViewModel.ubahData()
+        }
     }
 
     override fun onDestroyView() {
